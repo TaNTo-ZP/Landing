@@ -195,8 +195,6 @@ body {
   text-align: center;
 }
 
-
-
 .block__item img {
   margin-bottom: 29px;
 }
@@ -211,7 +209,7 @@ body {
 }
 
 .content__desc {
-  max-width: 250px;
+  max-width: 210px;
   margin-bottom: 22px;
   font-family: 'Montserrat', sans-serif;
   font-size: 13px;
