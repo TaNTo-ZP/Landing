@@ -105,8 +105,8 @@ body {
   background-color: #1d1d1d;
   padding-top: 128px;
   padding-bottom: 271px;
-  background: url(/img/about_bg.png) center 101% repeat-x,
-              url(/img/about_bg2.png) center 101% repeat-x,
+  background: url(img/about_bg.png) center 101% repeat-x,
+              url(img/about_bg2.png) center 101% repeat-x,
                 #1d1d1d;
   /* background-size: contain, contain; */
 }
